@@ -14,7 +14,7 @@ resources:
     cpu: 1000m
     memory: 1024Mi
   requests:
-    cpu: 1000m
+    cpu: 100m
     memory: 1024Mi
 ingress:
   enabled: true
